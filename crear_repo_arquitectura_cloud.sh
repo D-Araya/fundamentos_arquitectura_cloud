@@ -29,12 +29,12 @@ declare -a m01_clases=(
     "M1_AE1_AE2_Perfil_y_Modulos:Perfil laboral y Metodología del bootcamp:1:Lun:05/12/2025"
     "M1_AE4_Herramientas_IA:Herramientas de IA para la programación:3:Mié:10/12/2025"
     "M1_AE5_Sobriedad_Digital:Sobriedad digital:4:Jue:12/12/2025"
-    "M2_AE1_Evolucion_Modelos:Evolución de los modelos de distribución:5:Vie:15/12/2025"
 )
 
 # Módulo 2
 modulos_data["02"]="Modulo_2_Arquitectura_Software"
 declare -a m02_clases=(
+    "M2_AE1_Evolucion_Modelos:Evolución de los modelos de distribución:5:Vie:15/12/2025"	
     "M2_AE2_Arquitectura_Software:Arquitectura de software:6:Mié:17/12/2025"
     "M2_AE3_Rol_Arquitecto:Rol del arquitecto en equipos ágiles:7:Vie:19/12/2025"
     "M2_AE4_Pilares_Fundamentales:Pilares fundamentales de la arquitectura:8:Lun:22/12/2025"
