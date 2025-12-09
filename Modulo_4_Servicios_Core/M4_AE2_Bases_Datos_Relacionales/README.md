@@ -1,6 +1,6 @@
 # 📘 Día 15: Servicios de bases de datos relacionales
 
-> **📅 Fecha programada**: Vie, 21/01/2026  
+> **📅 Fecha programada**: Mié, 21/01/2026  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---

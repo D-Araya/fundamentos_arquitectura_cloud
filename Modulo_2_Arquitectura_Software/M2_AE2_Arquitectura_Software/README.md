@@ -1,6 +1,6 @@
 # 📘 Día 6: Arquitectura de software
 
-> **📅 Fecha programada**: Mié, 17/12/2025  
+> **📅 Fecha programada**: Vie, 19/12/2025  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_1_Fundamentos_Inicio/M2_AE1_Evolucion_Modelos/README.md) | [Actividad Siguiente →](../M2_AE3_Rol_Arquitecto/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M2_AE1_Evolucion_Modelos/README.md) | [Actividad Siguiente →](../M2_AE3_Rol_Arquitecto/README.md)
 
 ---
 

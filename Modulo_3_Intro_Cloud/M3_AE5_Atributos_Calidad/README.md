@@ -1,6 +1,6 @@
 # 📘 Día 13: Principales atributos de calidad en una arquitectura en la nube
 
-> **📅 Fecha programada**: Mié, 16/01/2026  
+> **📅 Fecha programada**: Vie, 16/01/2026  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---

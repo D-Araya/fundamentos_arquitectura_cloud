@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M5_AE3_Nubes_Hibridas/README.md) | [Actividad Siguiente →](../M5_AE5_Disponibilidad_App_1/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M5_AE3_Nubes_Hibridas/README.md) | [Actividad Siguiente →](../M5_AE5_Disponibilidad_App_Parte_1/README.md)
 
 ---
 

@@ -1,6 +1,6 @@
-# 📘 Día 5: Evolución de los modelos de distribución
+# 📘 Día 5: Evolución de los modelos de distribución de software
 
-> **📅 Fecha programada**: Vie, 15/12/2025  
+> **📅 Fecha programada**: Mié, 17/12/2025  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
@@ -8,7 +8,7 @@
 ## 🚧 En Construcción
 
 Este contenido corresponde a la clase del **Día 5**:  
-**Evolución de los modelos de distribución**
+**Evolución de los modelos de distribución de software**
 
 ---
 
@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M1_AE5_Sobriedad_Digital/README.md) | [Actividad Siguiente →](../../Modulo_2_Arquitectura_Software/M2_AE2_Arquitectura_Software/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_1_Fundamentos_Inicio/M1_AE5_Sobriedad_Digital/README.md) | [Actividad Siguiente →](../M2_AE2_Arquitectura_Software/README.md)
 
 ---
 

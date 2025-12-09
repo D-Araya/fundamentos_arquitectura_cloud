@@ -1,4 +1,4 @@
-# 📘 Día 54: Implementación de persistencia serverless
+# 📘 Día 54: Implementación de persistencia serverless (Parte 1)
 
 > **📅 Fecha programada**: Vie, 24/04/2026  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
@@ -8,7 +8,7 @@
 ## 🚧 En Construcción
 
 Este contenido corresponde a la clase del **Día 54**:  
-**Implementación de persistencia serverless**
+**Implementación de persistencia serverless (Parte 1)**
 
 ---
 

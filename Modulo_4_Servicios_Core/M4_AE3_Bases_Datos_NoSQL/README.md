@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M4_AE2_Bases_Datos_Relacionales/README.md) | [Actividad Siguiente →](../M4_AE5_Servicios_Computo/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M4_AE2_Bases_Datos_Relacionales/README.md) | [Actividad Siguiente →](../M4_AE4_Servicios_Computo/README.md)
 
 ---
 

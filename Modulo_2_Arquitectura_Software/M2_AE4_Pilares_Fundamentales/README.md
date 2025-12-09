@@ -1,6 +1,6 @@
 # 📘 Día 8: Pilares fundamentales de la arquitectura
 
-> **📅 Fecha programada**: Lun, 22/12/2025  
+> **📅 Fecha programada**: Lun, 05/01/2026  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---

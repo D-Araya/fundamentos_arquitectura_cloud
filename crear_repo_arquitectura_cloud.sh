@@ -26,42 +26,43 @@ declare -A modulos_data
 # Módulo 1
 modulos_data["01"]="Modulo_1_Fundamentos_Inicio"
 declare -a m01_clases=(
-    "M1_AE1_AE2_Perfil_y_Modulos:Perfil laboral y Metodología del bootcamp:1:Lun:05/12/2025"
-    "M1_AE4_Herramientas_IA:Herramientas de IA para la programación:3:Mié:10/12/2025"
-    "M1_AE5_Sobriedad_Digital:Sobriedad digital:4:Jue:12/12/2025"
+    "M1_AE1_AE2_Perfil_y_Composicion:Perfil laboral y composición plan formativo:1:Vie:05/12/2025"
+    "M1_AE3_Metodologia_Bootcamp:Metodología del bootcamp:2:Mié:10/12/2025"
+    "M1_AE4_Herramientas_IA:Herramientas de IA para la programación:3:Vie:12/12/2025"
+    "M1_AE5_Sobriedad_Digital:Sobriedad digital:4:Lun:15/12/2025"
 )
 
 # Módulo 2
 modulos_data["02"]="Modulo_2_Arquitectura_Software"
 declare -a m02_clases=(
-    "M2_AE1_Evolucion_Modelos:Evolución de los modelos de distribución:5:Vie:15/12/2025"	
-    "M2_AE2_Arquitectura_Software:Arquitectura de software:6:Mié:17/12/2025"
-    "M2_AE3_Rol_Arquitecto:Rol del arquitecto en equipos ágiles:7:Vie:19/12/2025"
-    "M2_AE4_Pilares_Fundamentales:Pilares fundamentales de la arquitectura:8:Lun:22/12/2025"
+    "M2_AE1_Evolucion_Modelos:Evolución de los modelos de distribución de software:5:Mié:17/12/2025"
+    "M2_AE2_Arquitectura_Software:Arquitectura de software:6:Vie:19/12/2025"
+    "M2_AE3_Rol_Arquitecto:Rol del arquitecto en equipos ágiles:7:Lun:22/12/2025"
+    "M2_AE4_Pilares_Fundamentales:Pilares fundamentales de la arquitectura:8:Lun:05/01/2026"
 )
 
 # Módulo 3
 modulos_data["03"]="Modulo_3_Intro_Cloud"
 declare -a m03_clases=(
-    "M3_AE1_Intro_Cloud:Introducción a la computación en la nube:9:Lun:05/01/2026"
-    "M3_AE2_Modelos_Servicio:Modelos de servicio en la nube:10:Mié:07/01/2026"
+    "M3_AE1_Intro_Cloud:Introducción a la computación en la nube:9:Mié:07/01/2026"
+    "M3_AE2_Modelos_Servicio:Modelos de servicio en la nube:10:Vie:09/01/2026"
     "M3_AE3_Modelos_Implementacion:Modelos de implementación en la nube:11:Lun:12/01/2026"
-    "M3_AE4_Principios_Diseno:Principios fundamentales de diseño de una arquitectura:12:Vie:14/01/2026"
-    "M3_AE5_Atributos_Calidad:Principales atributos de calidad en una arquitectura en la nube:13:Mié:16/01/2026"
+    "M3_AE4_Principios_Diseno:Principios fundamentales de diseño de una arquitectura:12:Mié:14/01/2026"
+    "M3_AE5_Atributos_Calidad:Principales atributos de calidad en una arquitectura en la nube:13:Vie:16/01/2026"
 )
 
 # Módulo 4
 modulos_data["04"]="Modulo_4_Servicios_Core"
 declare -a m04_clases=(
     "M4_AE1_Almacenamiento:Almacenamiento en cloud:14:Lun:19/01/2026"
-    "M4_AE2_Bases_Datos_Relacionales:Servicios de bases de datos relacionales:15:Vie:21/01/2026"
+    "M4_AE2_Bases_Datos_Relacionales:Servicios de bases de datos relacionales:15:Mié:21/01/2026"
     "M4_AE3_Bases_Datos_NoSQL:Servicios de bases de datos nosql:16:Vie:23/01/2026"
-    "M4_AE5_Servicios_Computo:Servicios de cómputo:17:Lun:26/01/2026"
-    "M4_AE5_Red_Nube_1:Servicios de red en la nube:18:Mié:28/01/2026"
-    "M4_AE5_Red_Nube_2:Servicios de red en la nube:19:Vie:30/01/2026"
-    "M4_AE6_Notificacion_Mensajeria:Servicios de notificación y mensajería:20:Vie:02/02/2026"
-    "M4_AE7_Alojamiento_Web_1:Servicios simples de alojamiento web y contenidos:21:Mié:04/02/2026"
-    "M4_AE7_Alojamiento_Web_2:Servicios simples de alojamiento web y contenidos:22:Vie:06/02/2026"
+    "M4_AE4_Servicios_Computo:Servicios de cómputo:17:Lun:26/01/2026"
+    "M4_AE5_Red_Nube_Parte_1:Servicios de red en la nube (Parte 1):18:Mié:28/01/2026"
+    "M4_AE5_Red_Nube_Parte_2:Servicios de red en la nube (Parte 2):19:Vie:30/01/2026"
+    "M4_AE6_Notificacion_Mensajeria:Servicios de notificación y mensajería:20:Lun:02/02/2026"
+    "M4_AE7_Alojamiento_Web_Parte_1:Servicios simples de alojamiento web y contenidos (Parte 1):21:Mié:04/02/2026"
+    "M4_AE7_Alojamiento_Web_Parte_2:Servicios simples de alojamiento web y contenidos (Parte 2):22:Vie:06/02/2026"
     "M4_AE8_Monitoreo:Servicios de monitoreo y correlación de incidentes:23:Lun:09/02/2026"
 )
 
@@ -72,10 +73,10 @@ declare -a m05_clases=(
     "M5_AE2_Estrategias_Respaldo:Estrategias de almacenamiento y respaldo en la nube:25:Vie:13/02/2026"
     "M5_AE3_Nubes_Hibridas:Arquitecturas de nubes públicas, privadas e híbridas:26:Lun:16/02/2026"
     "M5_AE4_Escalabilidad_Computo:Escalabilidad de servicios de cómputo:27:Mié:18/02/2026"
-    "M5_AE5_Disponibilidad_App_1:Disponibilidad de aplicaciones en la red:28:Lun:20/02/2026"
-    "M5_AE5_Disponibilidad_App_2:Disponibilidad de aplicaciones en la red:29:Vie:23/02/2026"
-    "M5_AE6_Disponibilidad_Contenidos_1:Disponibilidad de contenidos de aplicaciones cloud:30:Mié:25/02/2026"
-    "M5_AE6_Disponibilidad_Contenidos_2:Disponibilidad de contenidos de aplicaciones cloud:31:Vie:27/02/2026"
+    "M5_AE5_Disponibilidad_App_Parte_1:Disponibilidad de aplicaciones en la red (Parte 1):28:Vie:20/02/2026"
+    "M5_AE5_Disponibilidad_App_Parte_2:Disponibilidad de aplicaciones en la red (Parte 2):29:Lun:23/02/2026"
+    "M5_AE6_Disponibilidad_Contenidos_Parte_1:Disponibilidad de contenidos de aplicaciones cloud (Parte 1):30:Mié:25/02/2026"
+    "M5_AE6_Disponibilidad_Contenidos_Parte_2:Disponibilidad de contenidos de aplicaciones cloud (Parte 2):31:Vie:27/02/2026"
     "M5_AE7_Arquitecturas_Mensajes:Arquitecturas básicas orientadas a mensajes:32:Lun:02/03/2026"
     "M5_AE8_Costos_Nube:Administración de costos en la nube:33:Mié:04/03/2026"
 )
@@ -85,10 +86,10 @@ modulos_data["06"]="Modulo_6_Escalabilidad_Monolitos_Contenedores"
 declare -a m06_clases=(
     "M6_AE1_Escalabilidad_Monolitica:Conceptos generales de escalabilidad en arquitecturas monolíticas:34:Vie:06/03/2026"
     "M6_AE2_Implementacion_Monolitica:Implementación de una arquitectura monolítica:35:Lun:09/03/2026"
-    "M6_AE3_Escalabilidad_Alta_Disp_1:Implementación de escalabilidad y alta disponibilidad:36:Mié:11/03/2026"
-    "M6_AE3_Escalabilidad_Alta_Disp_2:Implementación de escalabilidad y alta disponibilidad:37:Vie:13/03/2026"
-    "M6_AE4_Contenedores_1:Implementación mediante contenedores de aplicación:38:Lun:16/03/2026"
-    "M6_AE4_Contenedores_2:Implementación mediante contenedores de aplicación:39:Mié:18/03/2026"
+    "M6_AE3_Escalabilidad_Alta_Disp_Parte_1:Implementación de escalabilidad y alta disponibilidad (Parte 1):36:Mié:11/03/2026"
+    "M6_AE3_Escalabilidad_Alta_Disp_Parte_2:Implementación de escalabilidad y alta disponibilidad (Parte 2):37:Vie:13/03/2026"
+    "M6_AE4_Contenedores_Parte_1:Implementación mediante contenedores de aplicación (Parte 1):38:Lun:16/03/2026"
+    "M6_AE4_Contenedores_Parte_2:Implementación mediante contenedores de aplicación (Parte 2):39:Mié:18/03/2026"
     "M6_AE5_Mensajeria_Cloud:Implementación de servicios de mensajería cloud:40:Vie:20/03/2026"
     "M6_AE6_Representacion_Cloud:Representación de una arquitectura cloud:41:Lun:23/03/2026"
 )
@@ -96,14 +97,14 @@ declare -a m06_clases=(
 # Módulo 7
 modulos_data["07"]="Modulo_7_Microservicios"
 declare -a m07_clases=(
-    "M7_AE1_Intro_Microservicios_1:Introducción a las arquitectura de microservicios:42:Mié:25/03/2026"
-    "M7_AE1_Intro_Microservicios_2:Introducción a las arquitectura de microservicios:43:Vie:27/03/2026"
-    "M7_AE2_Patrones_Microservicios_1:Patrones de la arquitectura de microservicios:44:Lun:30/03/2026"
-    "M7_AE2_Patrones_Microservicios_2:Patrones de la arquitectura de microservicios:45:Mié:01/04/2026"
-    "M7_AE3_Orquestacion_Contenedores_1:Implementación con orquestación de contenedores:46:Lun:06/04/2026"
-    "M7_AE3_Orquestacion_Contenedores_2:Implementación con orquestación de contenedores:47:Mié:08/04/2026"
-    "M7_AE4_Arquitectura_Orientada_Microservicios_1:Representación de una arquitectura cloud orientada a microservicios:48:Lun:10/04/2026"
-    "M7_AE4_Arquitectura_Orientada_Microservicios_2:Representación de una arquitectura cloud orientada a microservicios:49:Lun:13/04/2026"
+    "M7_AE1_Intro_Microservicios_Parte_1:Introducción a las arquitectura de microservicios (Parte 1):42:Mié:25/03/2026"
+    "M7_AE1_Intro_Microservicios_Parte_2:Introducción a las arquitectura de microservicios (Parte 2):43:Vie:27/03/2026"
+    "M7_AE2_Patrones_Microservicios_Parte_1:Patrones de la arquitectura de microservicios (Parte 1):44:Lun:30/03/2026"
+    "M7_AE2_Patrones_Microservicios_Parte_2:Patrones de la arquitectura de microservicios (Parte 2):45:Mié:01/04/2026"
+    "M7_AE3_Orquestacion_Contenedores_Parte_1:Implementación con orquestación de contenedores (Parte 1):46:Lun:06/04/2026"
+    "M7_AE3_Orquestacion_Contenedores_Parte_2:Implementación con orquestación de contenedores (Parte 2):47:Mié:08/04/2026"
+    "M7_AE4_Representacion_Microservicios_Parte_1:Representación de una arquitectura cloud orientada a microservicios (Parte 1):48:Vie:10/04/2026"
+    "M7_AE4_Representacion_Microservicios_Parte_2:Representación de una arquitectura cloud orientada a microservicios (Parte 2):49:Lun:13/04/2026"
 )
 
 # Módulo 8
@@ -113,8 +114,8 @@ declare -a m08_clases=(
     "M8_AE2_Sitios_Serverless:Sitios web simples con tecnología serverless en la nube:51:Vie:17/04/2026"
     "M8_AE3_FaaS:Funciones como servicio (FaaS):52:Lun:20/04/2026"
     "M8_AE4_API_Gateway:API gateway:53:Mié:22/04/2026"
-    "M8_AE5_Persistencia_Serverless_1:Implementación de persistencia serverless:54:Vie:24/04/2026"
-    "M8_AE5_Persistencia_Serverless_2:Implementación de persistencia serverless:55:Lun:27/04/2026"
+    "M8_AE5_Persistencia_Serverless_1:Implementación de persistencia serverless (Parte 1):54:Vie:24/04/2026"
+    "M8_AE5_Persistencia_Serverless_2:Implementación de persistencia serverless (Parte 2):55:Lun:27/04/2026"
     "M8_AE6_Representacion_Serverless:Representación de una arquitectura cloud sin servidor:56:Mié:29/04/2026"
     "M8_AE7_Optimizacion_Recursos:Crecimiento y optimización de recursos:57:Lun:04/05/2026"
 )

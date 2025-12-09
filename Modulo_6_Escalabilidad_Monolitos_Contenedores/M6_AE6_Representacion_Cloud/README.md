@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M6_AE5_Mensajeria_Cloud/README.md) | [Actividad Siguiente →](../../Modulo_7_Microservicios/M7_AE1_Intro_Microservicios_1/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M6_AE5_Mensajeria_Cloud/README.md) | [Actividad Siguiente →](../../Modulo_7_Microservicios/M7_AE1_Intro_Microservicios_Parte_1/README.md)
 
 ---
 

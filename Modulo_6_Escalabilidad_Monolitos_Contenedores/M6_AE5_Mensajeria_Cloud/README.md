@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M6_AE4_Contenedores_2/README.md) | [Actividad Siguiente →](../M6_AE6_Representacion_Cloud/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M6_AE4_Contenedores_Parte_2/README.md) | [Actividad Siguiente →](../M6_AE6_Representacion_Cloud/README.md)
 
 ---
 

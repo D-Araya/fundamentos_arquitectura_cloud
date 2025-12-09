@@ -1,6 +1,6 @@
 # 📘 Día 7: Rol del arquitecto en equipos ágiles
 
-> **📅 Fecha programada**: Vie, 19/12/2025  
+> **📅 Fecha programada**: Lun, 22/12/2025  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---

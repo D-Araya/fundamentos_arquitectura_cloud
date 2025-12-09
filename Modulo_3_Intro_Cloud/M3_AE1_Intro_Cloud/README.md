@@ -1,6 +1,6 @@
 # 📘 Día 9: Introducción a la computación en la nube
 
-> **📅 Fecha programada**: Lun, 05/01/2026  
+> **📅 Fecha programada**: Mié, 07/01/2026  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---

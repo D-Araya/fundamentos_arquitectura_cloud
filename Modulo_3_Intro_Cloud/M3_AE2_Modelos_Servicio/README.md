@@ -1,6 +1,6 @@
 # 📘 Día 10: Modelos de servicio en la nube
 
-> **📅 Fecha programada**: Mié, 07/01/2026  
+> **📅 Fecha programada**: Vie, 09/01/2026  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---

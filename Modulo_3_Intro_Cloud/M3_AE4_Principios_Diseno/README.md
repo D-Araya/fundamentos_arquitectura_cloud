@@ -1,6 +1,6 @@
 # 📘 Día 12: Principios fundamentales de diseño de una arquitectura
 
-> **📅 Fecha programada**: Vie, 14/01/2026  
+> **📅 Fecha programada**: Mié, 14/01/2026  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---

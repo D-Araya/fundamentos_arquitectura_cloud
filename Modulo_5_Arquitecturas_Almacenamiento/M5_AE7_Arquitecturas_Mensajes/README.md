@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M5_AE6_Disponibilidad_Contenidos_2/README.md) | [Actividad Siguiente →](../M5_AE8_Costos_Nube/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M5_AE6_Disponibilidad_Contenidos_Parte_2/README.md) | [Actividad Siguiente →](../M5_AE8_Costos_Nube/README.md)
 
 ---
 

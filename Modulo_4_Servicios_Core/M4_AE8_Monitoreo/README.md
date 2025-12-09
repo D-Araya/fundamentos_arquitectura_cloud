@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M4_AE7_Alojamiento_Web_2/README.md) | [Actividad Siguiente →](../../Modulo_5_Arquitecturas_Almacenamiento/M5_AE1_Almacenamiento_Objetos/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M4_AE7_Alojamiento_Web_Parte_2/README.md) | [Actividad Siguiente →](../../Modulo_5_Arquitecturas_Almacenamiento/M5_AE1_Almacenamiento_Objetos/README.md)
 
 ---
 

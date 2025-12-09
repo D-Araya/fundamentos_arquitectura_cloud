@@ -1,6 +1,6 @@
 # 📘 Día 20: Servicios de notificación y mensajería
 
-> **📅 Fecha programada**: Vie, 02/02/2026  
+> **📅 Fecha programada**: Lun, 02/02/2026  
 > **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M4_AE5_Red_Nube_2/README.md) | [Actividad Siguiente →](../M4_AE7_Alojamiento_Web_1/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M4_AE5_Red_Nube_Parte_2/README.md) | [Actividad Siguiente →](../M4_AE7_Alojamiento_Web_Parte_1/README.md)
 
 ---
 

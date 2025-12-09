@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_7_Microservicios/M7_AE4_Arquitectura_Orientada_Microservicios_2/README.md) | [Actividad Siguiente →](../M8_AE2_Sitios_Serverless/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_7_Microservicios/M7_AE4_Representacion_Microservicios_Parte_2/README.md) | [Actividad Siguiente →](../M8_AE2_Sitios_Serverless/README.md)
 
 ---
 

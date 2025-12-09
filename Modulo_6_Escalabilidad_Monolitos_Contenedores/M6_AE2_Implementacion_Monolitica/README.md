@@ -44,7 +44,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 ## 🔗 Navegación
 
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M6_AE1_Escalabilidad_Monolitica/README.md) | [Actividad Siguiente →](../M6_AE3_Escalabilidad_Alta_Disp_1/README.md)
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M6_AE1_Escalabilidad_Monolitica/README.md) | [Actividad Siguiente →](../M6_AE3_Escalabilidad_Alta_Disp_Parte_1/README.md)
 
 ---
 
