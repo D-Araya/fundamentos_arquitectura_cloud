@@ -1,7 +1,6 @@
 # 📘 Día 51: Sitios web simples con tecnología serverless en la nube
 
 > **📅 Fecha programada**: Vie, 17/04/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M8_AE1_Intro_Serverless/README.md) | [Actividad Siguiente →](../M8_AE3_FaaS/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

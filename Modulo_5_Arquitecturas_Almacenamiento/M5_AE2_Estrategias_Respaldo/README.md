@@ -1,7 +1,6 @@
 # 📘 Día 25: Estrategias de almacenamiento y respaldo en la nube
 
 > **📅 Fecha programada**: Vie, 13/02/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M5_AE1_Almacenamiento_Objetos/README.md) | [Actividad Siguiente →](../M5_AE3_Nubes_Hibridas/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

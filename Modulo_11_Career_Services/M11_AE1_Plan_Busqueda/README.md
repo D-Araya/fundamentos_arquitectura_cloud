@@ -1,7 +1,6 @@
 # 📘 Día 67: El plan de búsqueda laboral
 
 > **📅 Fecha programada**: Mié, 27/05/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_10_Portafolio/M10_AE3_Herramientas/README.md) | [Actividad Siguiente →](../M11_AE2_CV/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

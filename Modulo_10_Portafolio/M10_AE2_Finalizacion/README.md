@@ -1,7 +1,6 @@
 # 📘 Día 65: Finalización del proyecto
 
 > **📅 Fecha programada**: Vie, 22/05/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M10_AE1_Portafolio/README.md) | [Actividad Siguiente →](../M10_AE3_Herramientas/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

@@ -114,8 +114,8 @@ declare -a m08_clases=(
     "M8_AE2_Sitios_Serverless:Sitios web simples con tecnología serverless en la nube:51:Vie:17/04/2026"
     "M8_AE3_FaaS:Funciones como servicio (FaaS):52:Lun:20/04/2026"
     "M8_AE4_API_Gateway:API gateway:53:Mié:22/04/2026"
-    "M8_AE5_Persistencia_Serverless_1:Implementación de persistencia serverless (Parte 1):54:Vie:24/04/2026"
-    "M8_AE5_Persistencia_Serverless_2:Implementación de persistencia serverless (Parte 2):55:Lun:27/04/2026"
+    "M8_AE5_Persistencia_Serverless_1:Implementación de persistencia serverless:54:Vie:24/04/2026"
+    "M8_AE5_Persistencia_Serverless_2:Implementación de persistencia serverless:55:Lun:27/04/2026"
     "M8_AE6_Representacion_Serverless:Representación de una arquitectura cloud sin servidor:56:Mié:29/04/2026"
     "M8_AE7_Optimizacion_Recursos:Crecimiento y optimización de recursos:57:Lun:04/05/2026"
 )
@@ -237,51 +237,54 @@ get_next_link() {
 }
 
 # ==========================================
-# 4. Creación del README Principal
+# 4. Creación del README Principal (Dinámico)
 # ==========================================
 
+echo -e "${YELLOW}📝 Generando README.md principal con índice de clases...${NC}"
+
+# 4.1. Cabecera del README
 cat > README.md << 'EOF'
 # ☁️ Fundamentos de Arquitectura Cloud
 
 Repositorio oficial del bootcamp de Arquitectura Cloud.
 Este programa de 11 módulos cubre desde los fundamentos hasta arquitecturas serverless y microservicios.
 
-## 📚 Estructura del Programa
+## 📚 Contenido del Programa
 
-### [Módulo 1: Fundamentos e Inicio](./Modulo_1_Fundamentos_Inicio/README.md)
-Perfil laboral, metodología del bootcamp y herramientas básicas.
+EOF
 
-### [Módulo 2: Arquitectura de Software](./Modulo_2_Arquitectura_Software/README.md)
-Fundamentos de arquitectura de software y el rol del arquitecto.
+# 4.2. Bucle para generar la lista de clases dinámicamente
+for mod_num in "${modulos_orden[@]}"; do
+    mod_folder="${modulos_data[$mod_num]}"
+    
+    # Obtener nombre legible del módulo (quitando guiones bajos para el título)
+    mod_title_clean=$(echo "$mod_folder" | sed 's/_/ /g')
+    
+    # Obtener array de clases
+    array_name="m${mod_num}_clases[@]"
+    eval "clases=(\"\${$array_name}\")"
+    
+    # Calcular fechas de inicio y fin del módulo
+    IFS=':' read -r _ _ _ _ first_date <<< "${clases[0]}"
+    IFS=':' read -r _ _ _ _ last_date <<< "${clases[-1]}"
+    
+    # Escribir Título del Módulo en el README
+    echo "### [$mod_title_clean](./$mod_folder/README.md)" >> README.md
+    echo "**📅 Fechas:** $first_date - $last_date" >> README.md
+    echo "" >> README.md
+    
+    # Escribir lista de clases con enlaces
+    for clase in "${clases[@]}"; do
+        IFS=':' read -r folder title id dow date <<< "$clase"
+        echo "- 📄 [**$title**](./$mod_folder/$folder/README.md) ($dow $date)" >> README.md
+    done
+    
+    echo "" >> README.md
+    echo "---" >> README.md
+done
 
-### [Módulo 3: Introducción al Cloud](./Modulo_3_Intro_Cloud/README.md)
-Conceptos fundamentales de computación en la nube.
-
-### [Módulo 4: Servicios Core](./Modulo_4_Servicios_Core/README.md)
-Servicios esenciales de cloud: almacenamiento, bases de datos, cómputo y red.
-
-### [Módulo 5: Arquitecturas de Almacenamiento](./Modulo_5_Arquitecturas_Almacenamiento/README.md)
-Estrategias avanzadas de almacenamiento y disponibilidad.
-
-### [Módulo 6: Escalabilidad y Contenedores](./Modulo_6_Escalabilidad_Monolitos_Contenedores/README.md)
-Arquitecturas monolíticas, contenedores y escalabilidad.
-
-### [Módulo 7: Microservicios](./Modulo_7_Microservicios/README.md)
-Diseño e implementación de arquitecturas de microservicios.
-
-### [Módulo 8: Arquitectura Serverless](./Modulo_8_Serverless/README.md)
-Aplicaciones sin servidor y optimización de recursos.
-
-### [Módulo 9: Seguridad y Compliance](./Modulo_9_Seguridad_Compliance/README.md)
-Principios de seguridad, normas y auditorías en cloud.
-
-### [Módulo 10: Portafolio](./Modulo_10_Portafolio/README.md)
-Desarrollo del portafolio profesional.
-
-### [Módulo 11: Career Services](./Modulo_11_Career_Services/README.md)
-Preparación para el mercado laboral.
-
----
+# 4.3. Pie del README (Objetivos y Progreso)
+cat >> README.md << 'EOF'
 
 ## 🎯 Objetivos del Programa
 
@@ -291,7 +294,7 @@ Preparación para el mercado laboral.
 - 🔒 Aplicar mejores prácticas de seguridad y compliance
 - 💼 Desarrollar un portafolio profesional
 
-## 📊 Progreso
+## 📊 Progreso General
 
 - [ ] Módulo 1: Fundamentos
 - [ ] Módulo 2: Arquitectura Software
@@ -305,11 +308,10 @@ Preparación para el mercado laboral.
 - [ ] Módulo 10: Portafolio
 - [ ] Módulo 11: Career Services
 
----
-**Generado automáticamente:** $(date +%Y-%m-%d)
+
 EOF
 
-echo -e "${GREEN}✓ README.md principal creado${NC}"
+echo -e "${GREEN}✓ README.md principal creado con índice detallado${NC}"
 
 # ==========================================
 # 5. Función Generadora de Módulos
@@ -362,7 +364,6 @@ EOF
 # 📘 Día $dia: $titulo
 
 > **📅 Fecha programada**: $dow, $fecha  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -407,11 +408,7 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md)$prev_link$next_link
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 
 EOF
         

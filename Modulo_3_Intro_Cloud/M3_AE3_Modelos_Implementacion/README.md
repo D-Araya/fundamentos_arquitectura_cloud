@@ -1,7 +1,6 @@
 # 📘 Día 11: Modelos de implementación en la nube
 
 > **📅 Fecha programada**: Lun, 12/01/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M3_AE2_Modelos_Servicio/README.md) | [Actividad Siguiente →](../M3_AE4_Principios_Diseno/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

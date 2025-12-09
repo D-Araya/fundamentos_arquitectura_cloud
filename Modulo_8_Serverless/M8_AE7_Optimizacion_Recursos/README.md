@@ -1,7 +1,6 @@
 # 📘 Día 57: Crecimiento y optimización de recursos
 
 > **📅 Fecha programada**: Lun, 04/05/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M8_AE6_Representacion_Serverless/README.md) | [Actividad Siguiente →](../../Modulo_9_Seguridad_Compliance/M9_AE1_Principios_Seguridad/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

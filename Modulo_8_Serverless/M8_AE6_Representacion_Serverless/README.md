@@ -1,7 +1,6 @@
 # 📘 Día 56: Representación de una arquitectura cloud sin servidor
 
 > **📅 Fecha programada**: Mié, 29/04/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M8_AE5_Persistencia_Serverless_2/README.md) | [Actividad Siguiente →](../M8_AE7_Optimizacion_Recursos/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

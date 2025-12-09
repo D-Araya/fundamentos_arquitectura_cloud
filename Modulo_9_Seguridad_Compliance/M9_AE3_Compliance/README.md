@@ -1,7 +1,6 @@
 # 📘 Día 60: El modelo de compliance y seguridad automatizada
 
 > **📅 Fecha programada**: Lun, 11/05/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M9_AE2_Normas_Internacionales/README.md) | [Actividad Siguiente →](../M9_AE4_Seguridad_Aplicativo/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

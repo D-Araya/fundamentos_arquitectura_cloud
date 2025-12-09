@@ -1,7 +1,6 @@
 # 📘 Día 1: Perfil laboral y composición plan formativo
 
 > **📅 Fecha programada**: Vie, 05/12/2025  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [Actividad Siguiente →](../M1_AE3_Metodologia_Bootcamp/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

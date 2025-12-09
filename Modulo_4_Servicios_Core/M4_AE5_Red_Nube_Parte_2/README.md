@@ -1,7 +1,6 @@
 # 📘 Día 19: Servicios de red en la nube (Parte 2)
 
 > **📅 Fecha programada**: Vie, 30/01/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M4_AE5_Red_Nube_Parte_1/README.md) | [Actividad Siguiente →](../M4_AE6_Notificacion_Mensajeria/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

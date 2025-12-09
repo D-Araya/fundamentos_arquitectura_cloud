@@ -1,7 +1,6 @@
 # 📘 Día 4: Sobriedad digital
 
 > **📅 Fecha programada**: Lun, 15/12/2025  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M1_AE4_Herramientas_IA/README.md) | [Actividad Siguiente →](../../Modulo_2_Arquitectura_Software/M2_AE1_Evolucion_Modelos/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

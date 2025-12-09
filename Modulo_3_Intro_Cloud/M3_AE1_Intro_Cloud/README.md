@@ -1,7 +1,6 @@
 # 📘 Día 9: Introducción a la computación en la nube
 
 > **📅 Fecha programada**: Mié, 07/01/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_2_Arquitectura_Software/M2_AE4_Pilares_Fundamentales/README.md) | [Actividad Siguiente →](../M3_AE2_Modelos_Servicio/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

@@ -1,7 +1,6 @@
 # 📘 Día 3: Herramientas de IA para la programación
 
 > **📅 Fecha programada**: Vie, 12/12/2025  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M1_AE3_Metodologia_Bootcamp/README.md) | [Actividad Siguiente →](../M1_AE5_Sobriedad_Digital/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

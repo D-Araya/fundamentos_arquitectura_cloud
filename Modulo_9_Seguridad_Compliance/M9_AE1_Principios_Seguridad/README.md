@@ -1,7 +1,6 @@
 # 📘 Día 58: Principios de seguridad en la nube
 
 > **📅 Fecha programada**: Mié, 06/05/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_8_Serverless/M8_AE7_Optimizacion_Recursos/README.md) | [Actividad Siguiente →](../M9_AE2_Normas_Internacionales/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

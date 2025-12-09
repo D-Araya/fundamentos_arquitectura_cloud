@@ -1,14 +1,13 @@
-# 📘 Día 54: Implementación de persistencia serverless (Parte 1)
+# 📘 Día 54: Implementación de persistencia serverless
 
 > **📅 Fecha programada**: Vie, 24/04/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
 ## 🚧 En Construcción
 
 Este contenido corresponde a la clase del **Día 54**:  
-**Implementación de persistencia serverless (Parte 1)**
+**Implementación de persistencia serverless**
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M8_AE4_API_Gateway/README.md) | [Actividad Siguiente →](../M8_AE5_Persistencia_Serverless_2/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

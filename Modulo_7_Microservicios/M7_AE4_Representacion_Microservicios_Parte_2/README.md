@@ -1,7 +1,6 @@
 # 📘 Día 49: Representación de una arquitectura cloud orientada a microservicios (Parte 2)
 
 > **📅 Fecha programada**: Lun, 13/04/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M7_AE4_Representacion_Microservicios_Parte_1/README.md) | [Actividad Siguiente →](../../Modulo_8_Serverless/M8_AE1_Intro_Serverless/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

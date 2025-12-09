@@ -1,7 +1,6 @@
 # 📘 Día 2: Metodología del bootcamp
 
 > **📅 Fecha programada**: Mié, 10/12/2025  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M1_AE1_AE2_Perfil_y_Composicion/README.md) | [Actividad Siguiente →](../M1_AE4_Herramientas_IA/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

@@ -1,7 +1,6 @@
 # 📘 Día 50: Introducción a la arquitectura sin servidor
 
 > **📅 Fecha programada**: Mié, 15/04/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_7_Microservicios/M7_AE4_Representacion_Microservicios_Parte_2/README.md) | [Actividad Siguiente →](../M8_AE2_Sitios_Serverless/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

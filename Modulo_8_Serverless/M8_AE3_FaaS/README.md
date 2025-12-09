@@ -1,7 +1,6 @@
 # 📘 Día 52: Funciones como servicio (FaaS)
 
 > **📅 Fecha programada**: Lun, 20/04/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M8_AE2_Sitios_Serverless/README.md) | [Actividad Siguiente →](../M8_AE4_API_Gateway/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

@@ -1,7 +1,6 @@
 # 📘 Día 23: Servicios de monitoreo y correlación de incidentes
 
 > **📅 Fecha programada**: Lun, 09/02/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M4_AE7_Alojamiento_Web_Parte_2/README.md) | [Actividad Siguiente →](../../Modulo_5_Arquitecturas_Almacenamiento/M5_AE1_Almacenamiento_Objetos/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

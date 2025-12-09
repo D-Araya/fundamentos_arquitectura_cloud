@@ -1,7 +1,6 @@
 # 📘 Día 8: Pilares fundamentales de la arquitectura
 
 > **📅 Fecha programada**: Lun, 05/01/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M2_AE3_Rol_Arquitecto/README.md) | [Actividad Siguiente →](../../Modulo_3_Intro_Cloud/M3_AE1_Intro_Cloud/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

@@ -1,7 +1,6 @@
 # 📘 Día 21: Servicios simples de alojamiento web y contenidos (Parte 1)
 
 > **📅 Fecha programada**: Mié, 04/02/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M4_AE6_Notificacion_Mensajeria/README.md) | [Actividad Siguiente →](../M4_AE7_Alojamiento_Web_Parte_2/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

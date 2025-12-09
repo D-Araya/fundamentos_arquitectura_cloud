@@ -1,7 +1,6 @@
 # 📘 Día 33: Administración de costos en la nube
 
 > **📅 Fecha programada**: Mié, 04/03/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M5_AE7_Arquitecturas_Mensajes/README.md) | [Actividad Siguiente →](../../Modulo_6_Escalabilidad_Monolitos_Contenedores/M6_AE1_Escalabilidad_Monolitica/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

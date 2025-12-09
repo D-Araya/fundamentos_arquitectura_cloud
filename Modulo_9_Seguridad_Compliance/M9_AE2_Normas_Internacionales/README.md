@@ -1,7 +1,6 @@
 # 📘 Día 59: Normas internacionales
 
 > **📅 Fecha programada**: Vie, 08/05/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M9_AE1_Principios_Seguridad/README.md) | [Actividad Siguiente →](../M9_AE3_Compliance/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

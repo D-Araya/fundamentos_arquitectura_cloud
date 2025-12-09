@@ -1,7 +1,6 @@
 # 📘 Día 5: Evolución de los modelos de distribución de software
 
 > **📅 Fecha programada**: Mié, 17/12/2025  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_1_Fundamentos_Inicio/M1_AE5_Sobriedad_Digital/README.md) | [Actividad Siguiente →](../M2_AE2_Arquitectura_Software/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

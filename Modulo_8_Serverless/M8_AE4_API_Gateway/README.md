@@ -1,7 +1,6 @@
 # 📘 Día 53: API gateway
 
 > **📅 Fecha programada**: Mié, 22/04/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M8_AE3_FaaS/README.md) | [Actividad Siguiente →](../M8_AE5_Persistencia_Serverless_1/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

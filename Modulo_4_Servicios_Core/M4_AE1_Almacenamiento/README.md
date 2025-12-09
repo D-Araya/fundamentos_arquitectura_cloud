@@ -1,7 +1,6 @@
 # 📘 Día 14: Almacenamiento en cloud
 
 > **📅 Fecha programada**: Lun, 19/01/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_3_Intro_Cloud/M3_AE5_Atributos_Calidad/README.md) | [Actividad Siguiente →](../M4_AE2_Bases_Datos_Relacionales/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

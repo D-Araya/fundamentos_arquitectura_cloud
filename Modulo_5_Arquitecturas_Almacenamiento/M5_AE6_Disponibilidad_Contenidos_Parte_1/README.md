@@ -1,7 +1,6 @@
 # 📘 Día 30: Disponibilidad de contenidos de aplicaciones cloud (Parte 1)
 
 > **📅 Fecha programada**: Mié, 25/02/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M5_AE5_Disponibilidad_App_Parte_2/README.md) | [Actividad Siguiente →](../M5_AE6_Disponibilidad_Contenidos_Parte_2/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

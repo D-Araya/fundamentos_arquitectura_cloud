@@ -1,7 +1,6 @@
 # 📘 Día 41: Representación de una arquitectura cloud
 
 > **📅 Fecha programada**: Lun, 23/03/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M6_AE5_Mensajeria_Cloud/README.md) | [Actividad Siguiente →](../../Modulo_7_Microservicios/M7_AE1_Intro_Microservicios_Parte_1/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

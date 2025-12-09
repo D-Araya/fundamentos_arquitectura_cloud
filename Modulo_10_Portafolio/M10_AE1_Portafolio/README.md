@@ -1,7 +1,6 @@
 # 📘 Día 64: El portafolio de productos
 
 > **📅 Fecha programada**: Mié, 20/05/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_9_Seguridad_Compliance/M9_AE6_Auditorias/README.md) | [Actividad Siguiente →](../M10_AE2_Finalizacion/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 

@@ -1,7 +1,6 @@
 # 📘 Día 61: Seguridad de aplicativo
 
 > **📅 Fecha programada**: Mié, 13/05/2026  
-> **⏰ Bootcamp**: Fundamentos de Arquitectura Cloud
 
 ---
 
@@ -46,9 +45,5 @@ Implementaciones prácticas, scripts y ejercicios de la sesión.
 
 [🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../M9_AE3_Compliance/README.md) | [Actividad Siguiente →](../M9_AE5_Auth_Cloud/README.md)
 
----
 
-## 📝 Notas
-
-*Espacio para tus apuntes y observaciones personales*
 
