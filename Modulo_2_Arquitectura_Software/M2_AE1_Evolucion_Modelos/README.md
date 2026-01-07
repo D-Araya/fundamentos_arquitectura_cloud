@@ -1,6 +1,6 @@
 # 📘 Día 5: Evolución de los modelos de distribución de software
 
-> **📅 Fecha programada**: Mié, 17/12/2025  
+> **📅 Fecha programada**: Mié, 17/12/2025
 
 ---
 
@@ -11,39 +11,7 @@ Este contenido corresponde a la clase del **Día 5**:
 
 ---
 
-## 📋 Objetivos de Aprendizaje
-
-- [ ] Completar la lectura del material teórico
-- [ ] Realizar ejercicios prácticos propuestos
-- [ ] Implementar código de ejemplo
-- [ ] Documentar conceptos clave aprendidos
-- [ ] Resolver cuestionario de autoevaluación
+[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_1_Fundamentos_Inicio/M1_AE4_Sobriedad_Digital/README.md) | [Actividad Siguiente →](../M2_AE2_Arquitectura_Software/README.md)
 
 ---
-
-## 📁 Estructura de Carpetas
-
-```
-M2_AE1_Evolucion_Modelos/
-├── 📄 documentos/    # Material de lectura, PDFs, referencias
-├── 🖼️  imagenes/      # Diagramas, capturas de pantalla, esquemas
-└── 💻 codigo/        # Implementaciones, scripts, ejercicios
-```
-
-### 📄 Documentos
-Material teórico, guías de estudio y referencias bibliográficas.
-
-### 🖼️ Imágenes
-Diagramas de arquitectura, capturas de pantalla y material visual.
-
-### 💻 Código
-Implementaciones prácticas, scripts y ejercicios de la sesión.
-
----
-
-## 🔗 Navegación
-
-[🏠 Índice Principal](../../README.md) | [📚 Volver al Módulo](../README.md) | [← Actividad Anterior](../../Modulo_1_Fundamentos_Inicio/M1_AE5_Sobriedad_Digital/README.md) | [Actividad Siguiente →](../M2_AE2_Arquitectura_Software/README.md)
-
-
 
